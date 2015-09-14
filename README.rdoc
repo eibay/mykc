@@ -1,28 +1,13 @@
-== README
+== MYKC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple student profile management system. The teacher/admin has the capability to upload photos of every student's activity as part of their profile and put corresponding remarks. She also has the ability to create summary report as the day or month progresses. The parent or guardian can have access to the students profile and be able to view their kid's profile or update necessary information such as contact details, food allergies, etc.
 
-Things you may want to cover:
+Possible technology behind this application would be:
 
-* Ruby version
+* Ruby on Rails 4
 
-* System dependencies
+* JQuery
 
-* Configuration
+* Postgresql
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Feel free to collaborate with me and have fun together.
